@@ -2,6 +2,6 @@
 
 ## My Poor CS Background
 
-![csbackground](./images/jpg/)
+![csbackground](./images/jpg/cs_background.jpeg)
 
 This repo will store some CS courses.
